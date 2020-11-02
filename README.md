@@ -1,6 +1,6 @@
 # ready-to-code
 
-boilerplate setup with webpack and webpack dev server ready to code 🚀 || Bundles js html scss css || Assets: png jpg svg || No build/dev configuration ||everything you need for vanila javascript projects :)
+boilerplate setup with webpack and webpack dev server ready to code 🚀 || Bundles js html scss css || Assets: png jpg svg || No build/dev configuration ||everything you need for vanilla javascript based apps :)
 
 ## Ready to use
 
