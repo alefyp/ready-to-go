@@ -1,2 +1,9 @@
 # ready-to-code
-✨ template ✨ || boilerplate setup with webpack and webpack web server ready to code 🚀 || Bundles js html scss || Assets: png jpg svg || 
+
+boilerplate setup with webpack and webpack dev server ready to code 🚀 || Bundles js html scss css || Assets: png jpg svg || No build/dev configuration everything you need for vanila javascript projects :)
+
+## Ready to use
+
+- Fork or download this repo
+- `npm run start`: Automatically opens http://localhost:8080/ and reloads when update.
+- `npm run build`: creates a minified bundle [webpack] ready to deploy to production.
